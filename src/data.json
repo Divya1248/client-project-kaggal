@@ -1,0 +1,106 @@
+{
+  "trending": [
+    {
+      "image": "trend1.png",
+      "title": "Real Time Social Sentiment ",
+      "description": "TaiPanda9686 -  Updated 8 hours to go Usability 6.5 - 11kB 2Files(csv)",
+      "rating": "4"
+    },
+    {
+      "image": "trend2.PNG",
+      "title": "CVXPY Python Package",
+      "description": "marketneutral-Updated 14 hours ago Usability 8.8 - 68MB",
+      "rating": "4"
+    },
+    {
+      "image": "trend3.png",
+      "title": "Slangvvolution -Tweets ",
+      "description": "Daphna Keidar- Updated 14 hours ago Usability 7.4 - 18MB   7Files(CSV)",
+      "rating": "5"
+    },
+    {
+      "image": "trend4.png",
+      "title": "BBC News",
+      "description": "Gabreil Preda - Updated 8 hours ago  Usability 10.0 - 11kB",
+      "rating": "8"
+    }
+  ],
+  "popular": [
+    {
+      "image": "pop1.jpg",
+      "title": "Rice MSC Dataset",
+      "description": "Murat Koklu-Updated a month ago usability 8.1 . 0107 MB 3 files (other)",
+      "rating": "734"
+    },
+    {
+      "image": "pop2.jpg",
+      "title": "Date Fruit Dataset",
+      "description": "Murat Koklu-Updated a month ago usability 7.1 . 416 KB 2 files (other)",
+      "rating": "729"
+    },
+    {
+      "image": "pop3.jpg",
+      "title": "Dry Bean Dataset",
+      "description": "Murat Koklu-Updated a month ago usability 7.5 . 2 MB 1 files (other)",
+      "rating": "728"
+    },
+    {
+      "image": "pop4.jpeg",
+      "title": "Acoustic Extinguisher Fire",
+      "description": "Murat Koklu-Updated a month ago usability 8.2 . 635 KB 3 files (other)",
+      "rating": "722"
+    }
+  ],
+  "Arts": [
+    {
+      "image": "arts1.jpg",
+      "title": "Top Box Office Revenue",
+      "description": "Kalilur Rahman - Updated 7 hours ago Usability 10.0 - 68KB",
+      "rating": "26"
+    },
+    {
+      "image": "arts2.jpg",
+      "title": "Big Bang Theory Episodes",
+      "description": "Bill Cruise - Updated 3 days ago Usability 10.0 - 33KB 2Files(CSV)",
+      "rating": "5"
+    },
+    {
+      "image": "arts3.jpg",
+      "title": "House MD Episodes",
+      "description": "Bill Cruise - Updated 15 days ago Usability 10.0 - 25KB 2Files(CSV)",
+      "rating": "22"
+    },
+    {
+      "image": "arts4.jpg",
+      "title": "Datasets of WEBTOON",
+      "description": "iridazzle -Updated a days ago Usability 10.0 - 632KB 9Files(CSV,Other) ",
+      "rating": "19"
+    }
+  ],
+  "Biology": [
+    {
+      "image": "bio1.jpg",
+      "title": "skin-cancer-detection",
+      "description": " Hasini Sadhunika silva- Updated 19 days...  Usability 8.1 - 113MB",
+      "rating": "19"
+    },
+    {
+      "image": "bio2.png",
+      "title": "TPS Feb 22 - Train set",
+      "description": "Samuel Cortinhas -  Updated 9 days ago Usability 8.8- 54MB 1Files(CSV) ",
+      "rating": "5"
+    },
+    {
+      "image": "bio3.png",
+      "title": "Aging , Dementia and TBI",
+      "description": "Alberto Zorzetta - Updated a month ago Usability 9.1- 129MB 4Files(CSV)",
+      "rating": "20"
+    },
+    {
+      "image": "bio4.png",
+      "title": "Nesting Sea Turties Size",
+      "description": "Yam Peleg - Updated a month ago Usability 10.0- 19MB 1Files(CSV)",
+      "rating": "12"
+    }
+  ]
+}
